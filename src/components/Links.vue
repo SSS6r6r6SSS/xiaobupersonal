@@ -63,12 +63,12 @@ const siteLinksList = computed(() => {
 
 // 网站链接图标
 const siteIcon = {
-  Blog,
+  Cpanel,
   Cloud,
-  CompactDisc,
-  Compass,
-  Book,
-  Fire,
+  BookOpen,
+  CommentAltRegular,
+  Globe,
+  Desktop,
   LaptopCode,
 };
 
