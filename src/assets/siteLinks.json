@@ -1,37 +1,37 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Main",
+    "name": "TEEC官网",
+    "link": "https://teec.xiaobuawa.top/"
+  },
+  {
+    "icon": "Bbs",
+    "name": "TEEC论坛",
+    "link": "https://bbs.xiaobuawa.top/"
+  },
+  {
+    "icon": "Wiki",
+    "name": "TEEC Wiki",
+    "link": "https://wiki.xiaobuawa.top/" 
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "TEEC云盘",
+    "link": "https://pan.xiaobuawatop/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
-  }
+    "name": "节点监测-主要",
+    "link": "https://status.xiaobuawa.top/"
+  }, 
+  {
+    "icon": "LaptopCode",
+    "name": "节点监测-备用",
+    "link": "https://status.xiaobuawa.top/status/tp"
+  },
+   {
+    "icon": "Panel",
+    "name": "服务器面板",
+    "link": "http://panel.xiaobuawa.top/"
+   }
 ]
