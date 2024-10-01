@@ -1,16 +1,16 @@
 [
   {
-    "icon": "Main",
+    "icon": "Globe",
     "name": "TEEC官网",
     "link": "https://teec.xiaobuawa.top/"
   },
   {
-    "icon": "Bbs",
+    "icon": "CommentAltRegular",
     "name": "TEEC论坛",
     "link": "https://bbs.xiaobuawa.top/"
   },
   {
-    "icon": "Wiki",
+    "icon": "BookOpen",
     "name": "TEEC Wiki",
     "link": "https://wiki.xiaobuawa.top/" 
   },
@@ -30,7 +30,7 @@
     "link": "https://status.xiaobuawa.top/status/tp"
   },
    {
-    "icon": "Panel",
+    "icon": "Cpanel",
     "name": "服务器面板",
     "link": "http://panel.xiaobuawa.top/"
    }
