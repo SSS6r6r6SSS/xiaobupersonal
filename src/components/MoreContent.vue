@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">喵呜？ 喵呜! </n> 噫呜呜噫</div>
+  <div class="more-content">喵呜？喵呜! --一只可爱的小布吖~</div>
 </template>
 
 <style lang="scss" scoped>
