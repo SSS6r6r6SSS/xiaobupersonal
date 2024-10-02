@@ -27,12 +27,12 @@
   {
     "icon": "LaptopCode",
     "name": "节点监测-主要",
-    "link": "https://status.xiaobuawa.top/"
+    "link": "http://status.xiaobuawa.top/"
   }, 
   {
     "icon": "LaptopCode",
     "name": "节点监测-备用",
-    "link": "https://status.xiaobuawa.top/status/tp"
+    "link": "http://status.xiaobuawa.top/status/tp"
   },
    {
     "icon": "Cpanel",
