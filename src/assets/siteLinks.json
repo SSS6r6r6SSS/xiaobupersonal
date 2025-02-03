@@ -25,6 +25,11 @@
     "link": "https://wiki.xiaobuawa.top/" 
   },
   {
+    "icon": "Cloud",
+    "name": "TEEC云盘",
+    "link": "https://pan.xiaobuawa.top/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "节点监测-主要",
     "link": "http://status.xiaobuawa.top/"
@@ -34,14 +39,14 @@
     "name": "节点监测-备用",
     "link": "http://status.xiaobuawa.top/status/tp"
   },
-    {
-    "icon": "Cloud",
-    "name": "TEEC云盘",
-    "link": "https://pan.xiaobuawa.top/"
-  },
    {
     "icon": "Cpanel",
     "name": "服务器面板",
     "link": "http://panel.xiaobuawa.top/"
+   },
+       {
+    "icon": "",
+    "name": "FRP管理器",
+    "link": "http://tfrp.xiaobuawa.top:8000/"
    }
 ]
