@@ -44,8 +44,8 @@
     "name": "服务器面板",
     "link": "http://panel.xiaobuawa.top/"
    },
-       {
-    "icon": "",
+    {
+    "icon": "Wifi",
     "name": "FRP管理器",
     "link": "http://tfrp.xiaobuawa.top:8000/"
    }
