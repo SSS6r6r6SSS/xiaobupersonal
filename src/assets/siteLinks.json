@@ -1,4 +1,14 @@
 [
+    {
+    "icon": "Chalkboard",
+    "name": "Xiaobu's多人白板",
+    "link": "https://xiaobuawa.top/whit/"
+  },
+  {
+    "icon": "FileAltRegular",
+    "name": "Xiaobu's多人文档",
+    "link": "https://doc.xiaobuawa.top"
+  },
   {
     "icon": "Globe",
     "name": "TEEC官网",
@@ -15,21 +25,6 @@
     "link": "https://wiki.xiaobuawa.top/" 
   },
   {
-    "icon": "Chalkboard",
-    "name": "Xiaobu's多人白板",
-    "link": "https://xiaobuawa.top/whit/"
-  },
-  {
-    "icon": "FileAltRegular",
-    "name": "Xiaobu's多人文档",
-    "link": "https://xiaobuawa.top/pad/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "TEEC云盘",
-    "link": "https://pan.xiaobuawa.top/"
-  },
-  {
     "icon": "LaptopCode",
     "name": "节点监测-主要",
     "link": "http://status.xiaobuawa.top/"
@@ -38,6 +33,11 @@
     "icon": "LaptopCode",
     "name": "节点监测-备用",
     "link": "http://status.xiaobuawa.top/status/tp"
+  },
+    {
+    "icon": "Cloud",
+    "name": "TEEC云盘",
+    "link": "https://pan.xiaobuawa.top/"
   },
    {
     "icon": "Cpanel",
