@@ -26,8 +26,13 @@
   },
   {
     "icon": "Cloud",
-    "name": "TEEC文件共享",
+    "name": "TEEC文件下载站",
     "link": "https://tf.xiaobuawa.top/"
+  },
+    {
+    "icon": "FileImage",
+    "name": "小布の公共图床",
+    "link": "http://pic.xiaobuawa.top/"
   },
   {
     "icon": "LaptopCode",
