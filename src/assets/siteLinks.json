@@ -49,9 +49,9 @@
     "name": "服务器面板",
     "link": "http://panel.xiaobuawa.top/"
    },
-    {
-    "icon": "Wifi",
-    "name": "FRP管理器",
-    "link": "http://tfp.xiaobuawa.top:8000/"
-   }
+     {
+    "icon": "LaptopCode",
+    "name": "xicons网站-反向代理",
+    "link": "https://xicons.xiaobuawa.top"
+  }
 ]
