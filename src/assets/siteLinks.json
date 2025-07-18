@@ -51,7 +51,7 @@
    },
 			{
     "icon": "NetworkWired",
-    "name": "小布のDNS统合管理",
+    "name": "小布のDNS管理",
     "link": "https://dns.xiaobuawa.top"
   },
     {
@@ -61,7 +61,7 @@
   },
   {
     "icon": "Icons",
-    "name": "xicons网站-反向代理",
+    "name": "xicons反代",
     "link": "https://xicons.xiaobuawa.top"
   }
 ]
