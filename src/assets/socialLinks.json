@@ -12,6 +12,12 @@
     "url": "https://space.bilibili.com/2128772579"
   },
   {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/9906656"
+  },
+  {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "有事请联系~",
@@ -21,6 +27,6 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:18023520171@163.com"
+    "url": "mailto:xiaobuawa@qq.com"
   }
 ]
